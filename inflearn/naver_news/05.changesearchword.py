@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import pyautogui
-import time
 
 keyword = pyautogui.prompt("검색어를 입력하세요")
 response = requests.get(f"https://search.naver.com/search.naver?where=news&sm=tab_jum&query={keyword}")
@@ -37,4 +36,3 @@ for article in articles:
         print("==========링크==========\n", url)
         print("==========제목==========\n", title.text.strip())
         print("==========본문==========\n", content.text.strip())
-        time.sleep(0.3)
