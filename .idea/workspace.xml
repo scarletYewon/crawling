@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="369ef842-d909-48c7-8e52-a6cc84bf819e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/inflearn/coupang/01.firstpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/coupang/02.exceptAD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/coupang/03.changesearchword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/coupang/04.take100products.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/coupang/05.saveasexcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/google_img/01.img_address_axtraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_img/01.img_address_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_img/02.enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_img/03.makedir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_img/04.img_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_news/06.getpages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_news/07.usingword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_news/08.saveasword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_news/09.usingexcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_news/10.saveasexcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/naver_news/11.checklastpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/wordscloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/google_img/02.big_img_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/google_img/03.click_intercepted_solve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/naver_news/05.changesearchword.py" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/naver_news/05.changesearchword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +184,8 @@
       <workItem from="1643247873532" duration="3238000" />
       <workItem from="1643252077486" duration="6497000" />
       <workItem from="1643464740250" duration="2271000" />
-      <workItem from="1643538335863" duration="2431000" />
+      <workItem from="1643538335863" duration="3758000" />
+      <workItem from="1643618917961" duration="618000" />
     </task>
     <servers />
   </component>
