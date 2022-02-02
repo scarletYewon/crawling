@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="369ef842-d909-48c7-8e52-a6cc84bf819e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/inflearn/google_img/02.big_img_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/google_img/03.click_intercepted_solve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="369ef842-d909-48c7-8e52-a6cc84bf819e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,6 +182,7 @@
       <workItem from="1643464740250" duration="2271000" />
       <workItem from="1643538335863" duration="3758000" />
       <workItem from="1643618917961" duration="618000" />
+      <workItem from="1643651081451" duration="621000" />
     </task>
     <servers />
   </component>
