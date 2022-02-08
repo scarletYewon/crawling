@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="369ef842-d909-48c7-8e52-a6cc84bf819e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/inflearn/requests_naver_finance/03.savedata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/selenium_naver_map/01.input_searchword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/selenium_naver_map/02.iframe_Countermeasures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/selenium_naver_map/03.무한스크롤처리방법.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/selenium_naver_map/04.data_collection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/selenium_naver_map/05.except_ad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/selenium_naver_map/06.data_save.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +191,7 @@
       <workItem from="1643538335863" duration="3758000" />
       <workItem from="1643618917961" duration="618000" />
       <workItem from="1643651081451" duration="758000" />
-      <workItem from="1644053415995" duration="6773000" />
+      <workItem from="1644053415995" duration="11361000" />
     </task>
     <servers />
   </component>
